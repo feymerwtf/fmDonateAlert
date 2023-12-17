@@ -1,0 +1,8 @@
+name: fmDonateAlert
+version: '${version}'
+main: ru.feymer.fmdonatealert.FmDonateAlert
+api-version: '1.16'
+commands:
+  fmdonatealert:
+    aliases:
+      - fmda
